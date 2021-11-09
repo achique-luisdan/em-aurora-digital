@@ -10,6 +10,8 @@ Versión: 0.0.1.3
 
 26/10/2016
 
+![Demo 9](ux/../ui-ux/foto-9.png)
+
 Después de haber identificado y estudiado los factores que inciden en el aprendizaje significativo de las unidades curriculares objeto de estudio, se propuso el desarrollo de una enciclopedia multimedia como herramienta didáctica en aprendizaje de las mismas.
 
 En este contexto en busca de identificar las cualidades técnicas y pedagógicas que debía tener la enciclopedia multimedia para propiciar un aprendizaje significativo, se realizaron una serie de encuestas y entrevistas a los estudiantes y docentes donde los mismos expresaron que la enciclopedia debía tener una interfaz gráfica amigable, vistosa, agradable, dinámica y motivadora, con un esquema de acceso rápido muy intuitivo.

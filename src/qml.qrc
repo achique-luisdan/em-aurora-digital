@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Vista/CentroDeProduccionDeContenidos.ui.qml</file>
+        <file>Vista/FormularioDeUnidadCurricular.ui.qml</file>
+        <file>Delegado/FormularioDeUnidadCurricular.qml</file>
+        <file>Delegado/CentroDeProduccionDeContenidos.qml</file>
+        <file>Delegado/FormularioDeArticulo.qml</file>
+        <file>Delegado/FormularioDeInformacionDeArticulos.qml</file>
+        <file>Delegado/OpcionesDeEdicionDeArticulo.qml</file>
+        <file>Delegado/PanelDeGuardarComoArticulo.qml</file>
+        <file>Vista/FormularioDeInformacionDeArticulosForm.ui.qml</file>
+        <file>Vista/OpcionesDeArticuloForm.ui.qml</file>
+        <file>Vista/OpcionesDeEditarForm.ui.qml</file>
+        <file>Vista/OpcionesDeInsertarForm.ui.qml</file>
+        <file>Vista/OpcionesDeRevisionForm.ui.qml</file>
+        <file>Vista/OpcionesDeVerForm.ui.qml</file>
+        <file>Vista/PanelDeGuardarComoArticuloForm.ui.qml</file>
+        <file>Delegado/ConsultarArticulo.qml</file>
+        <file>Delegado/FormularioDeAutenticacion.qml</file>
+        <file>Delegado/FormularioDeUsuarios.qml</file>
+        <file>Delegado/PaginaDeArticulos.qml</file>
+        <file>Delegado/PaginaDeBandeja.qml</file>
+        <file>Delegado/PaginaDeUnidadesCurriculares.qml</file>
+        <file>Delegado/PaginaDeUnidadesDidacticas.qml</file>
+        <file>Delegado/PaginaInicio.qml</file>
+        <file>Delegado/PanelDeInicioDeSesion.qml</file>
+        <file>Vista/ConsultarArticuloForm.ui.qml</file>
+        <file>Vista/FormularioDeUsuarios.ui.qml</file>
+        <file>Vista/PaginaDeArticulosForm.ui.qml</file>
+        <file>Vista/PaginaDeBandeja.ui.qml</file>
+        <file>Vista/PaginaDeUnidadesCurricularesForm.ui.qml</file>
+        <file>Vista/PaginaDeUnidadesDidacticasForm.ui.qml</file>
+        <file>Vista/PaginaInicio.ui.qml</file>
+        <file>Vista/PanelDeInicioDeSesion.ui.qml</file>
+        <file>Delegado/FormularioDeUnidadDidactica.qml</file>
+    </qresource>
+</RCC>
